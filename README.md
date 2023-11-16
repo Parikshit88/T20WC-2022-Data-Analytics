@@ -16,7 +16,7 @@
 
    (1) Primarily the data was available in the json file format in the "___t20_json_files___" folder. So, we need to perform Data Preprocessing in order to process the available data using Pandas Python library and converting the json data into csv file. The preprocessed data (Jupyter Notebook) file is provided in the repo viz. "__Data Preprocessing__".
    
-   (2) All the csv files, or we can say the usual dataset used to perform data analysis is contained in the "___t20_csv_files___" 📁
+   (2) All the csv files, or we can say the usual dataset used to perform data analysis is contained in the "___t20_csv_files___"📁
 
    (3) The "__T20I WC Data Analytics (Basic Analytic Visualisation)__" 📈 file displays the basic analysis & visualisation of the Cricketer Dataset with different sections of different player categories segregated and filtered according to their performance throughout the tournament.
 
